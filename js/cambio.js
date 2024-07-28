@@ -1,4 +1,4 @@
-const apiKey = "SUA CHAV EAPI";
+const apiKey = "Sua chave Api";
 const apiUrl = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/BRL`
 const valorDolar = document.querySelector('.dolarValor');
 const valorEuro = document.querySelector('.euroValor');
